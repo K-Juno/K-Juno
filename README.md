@@ -18,6 +18,8 @@ My passions are:
 * my plants 🪴
 * (hopefully coding) 💻
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KoJuni.KoJuni&color=00cf00)
+
 <!--
 **KoJuni/KoJuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
