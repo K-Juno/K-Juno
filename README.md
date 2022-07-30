@@ -18,6 +18,10 @@ My passions are:
 * my plants 🪴
 * (hopefully coding) 💻
 
+
+[![KoJuni's github stats](https://github-readme-stats.vercel.app/api?username=KoJuni)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KoJuni.KoJuni&color=00cf00)
 
 <!--
