@@ -1,26 +1,20 @@
-## Aloha everyone! ✨
+## Aloha~ ✨
 
+few random fun facts:
+* nicknames: **Juno / June** 🍒
+* currently attending a **Web Dev bootcamp** at [neue fische](https://www.neuefische.de/) - team :whale:
+* based in **Wiesbaden** :round_pushpin:
 
-My name is Juni, but you can call me Juno or June. 🍒
-
-I am a brand new bootcamp member of [neue fische](https://www.neuefische.de/) - team :whale:
-
-Just getting started in **Web Development**! ⚡
-
-Currently based in **Wiesbaden**! :round_pushpin:
-
-![Wiesbaden](https://images.unsplash.com/photo-1603912743224-7f7643c3e25b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80)
-
-
-My passions are:
-
+passions:
 * music/singing 🎹🎤
 * my plants 🪴
-* (hopefully coding) 💻
-
+* (hopefully soon) professionally coding 💻
 
 [![KoJuni's github stats](https://github-readme-stats.vercel.app/api?username=KoJuni)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoJuni&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+![Coding](https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KoJuni.KoJuni&color=00cf00)
 
