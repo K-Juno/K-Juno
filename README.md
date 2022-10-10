@@ -1,6 +1,8 @@
 ## Aloha!
 
 I was trained and shaped by the **Web Dev bootcamp** at [neue fische](https://www.neuefische.de/).
+
+
 Very soon looking for an amazing place to work with other passionate Coders!
 
 Other passions:
