@@ -1,7 +1,8 @@
 ## Aloha!
 
-I'm currently attending a **Web Dev bootcamp** at [neue fische](https://www.neuefische.de/).
- 
+I was trained and shaped by the **Web Dev bootcamp** at [neue fische](https://www.neuefische.de/).
+Very soon looking for an amazing place to work with other passionate Coders!
+
 Other passions:
 * music/singing 🎹🎤
 * indoor plants 🪴
@@ -10,7 +11,7 @@ Other passions:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juno&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=KoJuni.KoJuni&color=00cf00)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KoJuni.KoJuni&color=00cf00)
 
 <!--
 **KoJuni/KoJuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
