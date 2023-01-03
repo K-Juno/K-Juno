@@ -12,4 +12,4 @@ Love to work with other passionate Coders!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juno&layout=compact&theme=codeSTACKr">
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=KoJuni.KoJuni&color=00cf00">
+<img src="https://komarev.com/ghpvc/?username=K-Juno">
