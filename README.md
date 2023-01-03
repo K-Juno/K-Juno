@@ -10,6 +10,3 @@ Love to work with other passionate Coders!
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juno&layout=compact&theme=codeSTACKr">
-
-
-<img src="https://komarev.com/ghpvc/?username=K-Juno">
