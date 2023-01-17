@@ -6,6 +6,6 @@ Trained and shaped by the **Web Dev Bootcamp** at [neue fische](https://www.neue
 Love to work with other passionate Coders! 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=K-Juno&show_icons=true&theme=algolia">
+![K-Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Juno&theme=algolia&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juno&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Juno"/>
